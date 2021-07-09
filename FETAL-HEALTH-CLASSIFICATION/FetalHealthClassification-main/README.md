@@ -1,0 +1,5 @@
+Pregnancy and fetal development is an extremely complex biological process, although usually successful and uncomplicated. One of the methods to determine whether the fetus is developing according to expectations is cardiotocography. The purpose of this diagnostic technique is to measure the fetal heart rate and its mother's uterine contractions, usually in the third trimester of pregnancy, when the fetus's heart is fully functional. The outputs of a cardiotocgram are generally interpreted as belonging to one of three conditions: physiological, suspicious, and pathological. We use this data set to see what factors affect the health of the fetus and to educate our model. The model we have created is used to predict the health status of the fetus. We used and compared various classification methods (KNN, SVM, Decision Tree Classifier, Random Forest Classifier, Gaussian Naive Bayes) in the project. The model in which we achieved the highest score was the Random Forest classification algorithm.
+
+Link of the dataset from kaggle : https://www.kaggle.com/andrewmvd/fetal-health-classification
+
+Youtube link of the presentation video : https://youtu.be/Jc-KA1EQNH4
